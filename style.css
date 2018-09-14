@@ -1,0 +1,18 @@
+@font-face {
+    font-family: MarkPro;
+    src: url("fonts/MarkPro.otf");
+}
+
+@font-face {
+    font-family: MarkPro;
+    src: url("fonts/MarkPro-Bold.otf");
+    font-weight: bold;
+}
+
+@font-face{
+    font-family: "GT-America";
+    src: url('fonts/GT-America-Mono-Light-v1.otf')
+}
+
+
+
